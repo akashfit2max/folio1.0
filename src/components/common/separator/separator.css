@@ -1,0 +1,21 @@
+.separator {
+  background-image: radial-gradient(
+    circle,
+    #411ee5,
+    #1d3fea,
+    #0055eb,
+    #0066e9,
+    #0075e4,
+    #0084e6,
+    #0092e5,
+    #009ee2,
+    #00afe5,
+    #00bfe2,
+    #00cdda,
+    #1cdace
+  );
+  height: 6px;
+  width: 40%;
+  border-radius: 3px;
+  margin: 16px 0px;
+}

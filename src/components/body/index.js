@@ -6,7 +6,6 @@ import Skills from "./skills";
 import Work from "./work";
 import Contact from "./contact";
 
-
 function Body() {
   return (
     <div className="body">

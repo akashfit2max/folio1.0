@@ -5,6 +5,7 @@ html {
 .home {
   display: flex;
   flex-direction: column;
+  font-family: "Work Sans", sans-serif;
   width: 70%;
   margin: auto;
 }
