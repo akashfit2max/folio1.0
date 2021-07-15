@@ -12,13 +12,12 @@ function About() {
             I'm a{" "}
             <Typewriter
               words={["Developer 🧑‍💻", "Designer 💅", "Open Source  ✔️"]}
-              loop={5}
+              loop={Infinity}
               cursor
               cursorStyle="_"
               typeSpeed={70}
               deleteSpeed={50}
               delaySpeed={1000}
-              onLoopDone={() => console.log(`Done after 5 loops!`)}
             />
           </h2>
         </div>
