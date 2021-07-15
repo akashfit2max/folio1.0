@@ -1,22 +1,28 @@
 {
   "files": {
-    "main.css": "/folio1.0/static/css/main.5a5beaa7.chunk.css",
-    "main.js": "/folio1.0/static/js/main.ec85dda1.chunk.js",
-    "main.js.map": "/folio1.0/static/js/main.ec85dda1.chunk.js.map",
-    "runtime-main.js": "/folio1.0/static/js/runtime-main.b7ec4803.js",
-    "runtime-main.js.map": "/folio1.0/static/js/runtime-main.b7ec4803.js.map",
+    "main.css": "/folio1.0/static/css/main.ab6389bc.chunk.css",
+    "main.js": "/folio1.0/static/js/main.e547236f.chunk.js",
+    "main.js.map": "/folio1.0/static/js/main.e547236f.chunk.js.map",
+    "runtime-main.js": "/folio1.0/static/js/runtime-main.d0afa79c.js",
+    "runtime-main.js.map": "/folio1.0/static/js/runtime-main.d0afa79c.js.map",
     "static/js/2.a972262e.chunk.js": "/folio1.0/static/js/2.a972262e.chunk.js",
     "static/js/2.a972262e.chunk.js.map": "/folio1.0/static/js/2.a972262e.chunk.js.map",
-    "static/js/3.1a97fa21.chunk.js": "/folio1.0/static/js/3.1a97fa21.chunk.js",
-    "static/js/3.1a97fa21.chunk.js.map": "/folio1.0/static/js/3.1a97fa21.chunk.js.map",
+    "static/js/3.3f7e7acf.chunk.js": "/folio1.0/static/js/3.3f7e7acf.chunk.js",
+    "static/js/3.3f7e7acf.chunk.js.map": "/folio1.0/static/js/3.3f7e7acf.chunk.js.map",
     "index.html": "/folio1.0/index.html",
-    "static/css/main.5a5beaa7.chunk.css.map": "/folio1.0/static/css/main.5a5beaa7.chunk.css.map",
-    "static/js/2.a972262e.chunk.js.LICENSE.txt": "/folio1.0/static/js/2.a972262e.chunk.js.LICENSE.txt"
+    "static/css/main.ab6389bc.chunk.css.map": "/folio1.0/static/css/main.ab6389bc.chunk.css.map",
+    "static/js/2.a972262e.chunk.js.LICENSE.txt": "/folio1.0/static/js/2.a972262e.chunk.js.LICENSE.txt",
+    "static/media/coding.png": "/folio1.0/static/media/coding.7a77433b.png",
+    "static/media/pro2.PNG": "/folio1.0/static/media/pro2.7d8ef990.PNG",
+    "static/media/pro3.PNG": "/folio1.0/static/media/pro3.db2dae74.PNG",
+    "static/media/pro4.PNG": "/folio1.0/static/media/pro4.3d254d58.PNG",
+    "static/media/pro5.PNG": "/folio1.0/static/media/pro5.ca775065.PNG",
+    "static/media/resume.pdf": "/folio1.0/static/media/resume.041c0860.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.b7ec4803.js",
+    "static/js/runtime-main.d0afa79c.js",
     "static/js/2.a972262e.chunk.js",
-    "static/css/main.5a5beaa7.chunk.css",
-    "static/js/main.ec85dda1.chunk.js"
+    "static/css/main.ab6389bc.chunk.css",
+    "static/js/main.e547236f.chunk.js"
   ]
 }
