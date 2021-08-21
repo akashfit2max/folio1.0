@@ -3,7 +3,7 @@ export const WorkData = [
     company: "Ey Gds",
     designation: "Associate Software Engineer",
     dataJoining: "07-06-2021",
-    dateEnd: "Present",
+    dateEnd: "23-07-2021",
     companyLogo:
       "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/EY_logo_2019.svg/1200px-EY_logo_2019.svg.png",
     work: "Worked in the DET (Digital Emerging Technology) team under cloud competency. Worken on Unit testing and creating the largest database efficiently. With over 100 people under me, made it work really well.",
